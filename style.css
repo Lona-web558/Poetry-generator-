@@ -1,0 +1,9 @@
+body {
+    background-color: #f7f9fc;
+}
+
+#poem {
+    background-color: #ffffff;
+    min-height: 200px;
+    font-size: 1.2rem;
+}
